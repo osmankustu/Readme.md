@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Osman and I'm a Software Enginner from Turkey</h2>
+<h2 align="left">Hi 👋! My name is Osman and I'm a Full Stack Software Enginner </h2>
 
 ###
 
