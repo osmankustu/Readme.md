@@ -10,9 +10,6 @@
 ###
 ###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/D4D35AQEKIDKD57xiOg/profile-framedphoto-shrink_400_400/0/1689468011849?e=1703930400&v=beta&t=MK-ToqPOLy66hnpOTVrLdv0Lt7GlYF6eutX2hjYLZxc"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
